@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hélio Goulart
 
-<!--
-**heliogoulartzz/heliogoulartzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Engineering Student | Aspiring Software Developer
 
-Here are some ideas to get you started:
+Estudante do 3º semestre de Engenharia de Software na Universidade de Mogi das Cruzes (UMC), com interesse em desenvolvimento de software, tecnologia e desenvolvimento de jogos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Busco constantemente aprimorar meus conhecimentos técnicos, desenvolver projetos práticos e adquirir experiência profissional na área de tecnologia.
+
+### Technical Skills
+
+- **Programming Languages:** Python
+- **Database:** SQL
+- **Tools:** Git and GitHub
+- **Academic Knowledge:** Software Development, CRUD Operations and Agile Methodologies
+
+### Projects
+
+**AgeMed — Medical Appointment Management System**
+
+Sistema desenvolvido em Python para gerenciamento de consultas médicas, com funcionalidades de cadastro, edição, exclusão e consulta de informações, além do controle de agendamentos de pacientes e armazenamento de dados em arquivos TXT estruturados.
+
+### Professional Goals
+
+Estou em busca da minha primeira oportunidade profissional na área de tecnologia, especialmente em desenvolvimento de software. Tenho grande interesse em aprender novas tecnologias, colaborar com equipes e aplicar meus conhecimentos em projetos reais.
+
