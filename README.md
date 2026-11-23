@@ -15,7 +15,7 @@ Busco constantemente aprimorar meus conhecimentos técnicos, desenvolver projeto
 
 ### Projects
 
-**AgeMed — Medical Appointment Management System**
+**AgeMed - Medical Appointment Management System**
 
 Sistema desenvolvido em Python para gerenciamento de consultas médicas, com funcionalidades de cadastro, edição, exclusão e consulta de informações, além do controle de agendamentos de pacientes e armazenamento de dados em arquivos TXT estruturados.
 
